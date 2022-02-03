@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=justirbs&layout=compact&title_color=fff&icon_color=96770e&text_color=9f9f9f&bg_color=181818&border_color=96770e&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" alt="Justine Ribas Top Langs" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=justirbs&count_private=true&layout=compact&title_color=fff&icon_color=96770e&text_color=9f9f9f&bg_color=181818&border_color=96770e&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" alt="Justine Ribas Top Langs" />
 </p>
   
  
